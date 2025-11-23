@@ -1,0 +1,21 @@
+{
+  "name": "conference-weather-ser",
+  "version": "1.0.0",
+  "description": "Weather service for the conference room booking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fades-devs/conference-weather-ser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fades-devs/conference-weather-ser/issues"
+  },
+  "homepage": "https://github.com/fades-devs/conference-weather-ser#readme"
+}
