@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/fades-devs/conference-weather-ser/issues"
   },
-  "homepage": "https://github.com/fades-devs/conference-weather-ser#readme"
+  "homepage": "https://github.com/fades-devs/conference-weather-ser#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
